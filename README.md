@@ -5,4 +5,3 @@ Intro to Deep Learning: 202660-ECGR-4106-081
   * 1. Open them in either Jupyter Notebook or Google Colab (preferred). 
   * 2. Run them using some form of cuda architecture (not sure how it will work on AMD gpu's). 
 
-NOTE: Training should take no longer than 5-10 minutes even on a T4
